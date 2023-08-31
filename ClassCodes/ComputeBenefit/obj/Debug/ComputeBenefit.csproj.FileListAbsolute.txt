@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\ComputeBenefit\bin\Debug\ComputeBenefit.exe.config
+E:\ProgramingClass\ClassCodes\ComputeBenefit\bin\Debug\ComputeBenefit.exe
+E:\ProgramingClass\ClassCodes\ComputeBenefit\bin\Debug\ComputeBenefit.pdb
+E:\ProgramingClass\ClassCodes\ComputeBenefit\obj\Debug\ComputeBenefit.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\ComputeBenefit\obj\Debug\ComputeBenefit.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\ComputeBenefit\obj\Debug\ComputeBenefit.exe
+E:\ProgramingClass\ClassCodes\ComputeBenefit\obj\Debug\ComputeBenefit.pdb
