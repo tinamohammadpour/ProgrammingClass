@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\CharBetweenStr\bin\Debug\CharBetweenStr.exe.config
+E:\ProgramingClass\ClassCodes\CharBetweenStr\bin\Debug\CharBetweenStr.exe
+E:\ProgramingClass\ClassCodes\CharBetweenStr\bin\Debug\CharBetweenStr.pdb
+E:\ProgramingClass\ClassCodes\CharBetweenStr\obj\Debug\CharBetweenStr.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\CharBetweenStr\obj\Debug\CharBetweenStr.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\CharBetweenStr\obj\Debug\CharBetweenStr.exe
+E:\ProgramingClass\ClassCodes\CharBetweenStr\obj\Debug\CharBetweenStr.pdb
