@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\LoginCheck\bin\Debug\LoginCheck.exe.config
+E:\ProgramingClass\ClassCodes\LoginCheck\bin\Debug\LoginCheck.exe
+E:\ProgramingClass\ClassCodes\LoginCheck\bin\Debug\LoginCheck.pdb
+E:\ProgramingClass\ClassCodes\LoginCheck\obj\Debug\LoginCheck.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\LoginCheck\obj\Debug\LoginCheck.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\LoginCheck\obj\Debug\LoginCheck.exe
+E:\ProgramingClass\ClassCodes\LoginCheck\obj\Debug\LoginCheck.pdb
