@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\PrintStar\bin\Debug\PrintStar.exe.config
+E:\ProgramingClass\ClassCodes\PrintStar\bin\Debug\PrintStar.exe
+E:\ProgramingClass\ClassCodes\PrintStar\bin\Debug\PrintStar.pdb
+E:\ProgramingClass\ClassCodes\PrintStar\obj\Debug\PrintStar.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\PrintStar\obj\Debug\PrintStar.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\PrintStar\obj\Debug\PrintStar.exe
+E:\ProgramingClass\ClassCodes\PrintStar\obj\Debug\PrintStar.pdb
