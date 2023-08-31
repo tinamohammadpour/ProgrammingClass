@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\Show10To10Square\bin\Debug\Show10To10Square.exe.config
+E:\ProgramingClass\ClassCodes\Show10To10Square\bin\Debug\Show10To10Square.exe
+E:\ProgramingClass\ClassCodes\Show10To10Square\bin\Debug\Show10To10Square.pdb
+E:\ProgramingClass\ClassCodes\Show10To10Square\obj\Debug\Show10To10Square.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\Show10To10Square\obj\Debug\Show10To10Square.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\Show10To10Square\obj\Debug\Show10To10Square.exe
+E:\ProgramingClass\ClassCodes\Show10To10Square\obj\Debug\Show10To10Square.pdb
