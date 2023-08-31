@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+E:\ProgramingClass\ClassCodes\SumOfDigits\bin\Debug\SumOfDigits.exe
+E:\ProgramingClass\ClassCodes\SumOfDigits\bin\Debug\SumOfDigits.pdb
+E:\ProgramingClass\ClassCodes\SumOfDigits\obj\Debug\SumOfDigits.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\SumOfDigits\obj\Debug\SumOfDigits.exe
+E:\ProgramingClass\ClassCodes\SumOfDigits\obj\Debug\SumOfDigits.pdb
