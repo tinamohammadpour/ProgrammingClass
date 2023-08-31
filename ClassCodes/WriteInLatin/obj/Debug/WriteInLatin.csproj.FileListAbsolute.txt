@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\WriteInLatin\bin\Debug\WriteInLatin.exe.config
+E:\ProgramingClass\ClassCodes\WriteInLatin\bin\Debug\WriteInLatin.exe
+E:\ProgramingClass\ClassCodes\WriteInLatin\bin\Debug\WriteInLatin.pdb
+E:\ProgramingClass\ClassCodes\WriteInLatin\obj\Debug\WriteInLatin.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\WriteInLatin\obj\Debug\WriteInLatin.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\WriteInLatin\obj\Debug\WriteInLatin.exe
+E:\ProgramingClass\ClassCodes\WriteInLatin\obj\Debug\WriteInLatin.pdb
