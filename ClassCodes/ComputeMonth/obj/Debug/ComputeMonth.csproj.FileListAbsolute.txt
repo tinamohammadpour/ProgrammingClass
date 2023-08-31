@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\ComputeMonth\bin\Debug\ComputeMonth.exe.config
+E:\ProgramingClass\ClassCodes\ComputeMonth\bin\Debug\ComputeMonth.exe
+E:\ProgramingClass\ClassCodes\ComputeMonth\bin\Debug\ComputeMonth.pdb
+E:\ProgramingClass\ClassCodes\ComputeMonth\obj\Debug\ComputeMonth.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\ComputeMonth\obj\Debug\ComputeMonth.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\ComputeMonth\obj\Debug\ComputeMonth.exe
+E:\ProgramingClass\ClassCodes\ComputeMonth\obj\Debug\ComputeMonth.pdb
