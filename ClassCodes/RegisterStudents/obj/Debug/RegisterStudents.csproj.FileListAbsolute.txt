@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\RegisterStudents\bin\Debug\RegisterStudents.exe.config
+E:\ProgramingClass\ClassCodes\RegisterStudents\bin\Debug\RegisterStudents.exe
+E:\ProgramingClass\ClassCodes\RegisterStudents\bin\Debug\RegisterStudents.pdb
+E:\ProgramingClass\ClassCodes\RegisterStudents\obj\Debug\RegisterStudents.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\RegisterStudents\obj\Debug\RegisterStudents.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\RegisterStudents\obj\Debug\RegisterStudents.exe
+E:\ProgramingClass\ClassCodes\RegisterStudents\obj\Debug\RegisterStudents.pdb
