@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\ShowWeekDays\bin\Debug\ShowWeekDays.exe.config
+E:\ProgramingClass\ClassCodes\ShowWeekDays\bin\Debug\ShowWeekDays.exe
+E:\ProgramingClass\ClassCodes\ShowWeekDays\bin\Debug\ShowWeekDays.pdb
+E:\ProgramingClass\ClassCodes\ShowWeekDays\obj\Debug\ShowWeekDays.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\ShowWeekDays\obj\Debug\ShowWeekDays.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\ShowWeekDays\obj\Debug\ShowWeekDays.exe
+E:\ProgramingClass\ClassCodes\ShowWeekDays\obj\Debug\ShowWeekDays.pdb
