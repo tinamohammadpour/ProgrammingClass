@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\bin\Debug\NumsBetweenTwoNums.exe.config
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\bin\Debug\NumsBetweenTwoNums.exe
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\bin\Debug\NumsBetweenTwoNums.pdb
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\obj\Debug\NumsBetweenTwoNums.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\obj\Debug\NumsBetweenTwoNums.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\obj\Debug\NumsBetweenTwoNums.exe
+E:\ProgramingClass\ClassCodes\NumsBetweenTwoNums\obj\Debug\NumsBetweenTwoNums.pdb
