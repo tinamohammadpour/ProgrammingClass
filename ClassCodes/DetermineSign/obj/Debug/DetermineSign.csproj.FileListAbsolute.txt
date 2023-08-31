@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\DetermineSign\bin\Debug\DetermineSign.exe.config
+E:\ProgramingClass\ClassCodes\DetermineSign\bin\Debug\DetermineSign.exe
+E:\ProgramingClass\ClassCodes\DetermineSign\bin\Debug\DetermineSign.pdb
+E:\ProgramingClass\ClassCodes\DetermineSign\obj\Debug\DetermineSign.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\DetermineSign\obj\Debug\DetermineSign.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\DetermineSign\obj\Debug\DetermineSign.exe
+E:\ProgramingClass\ClassCodes\DetermineSign\obj\Debug\DetermineSign.pdb
