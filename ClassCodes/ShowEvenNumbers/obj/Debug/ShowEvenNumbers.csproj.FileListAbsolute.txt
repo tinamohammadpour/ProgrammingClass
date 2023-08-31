@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\bin\Debug\ShowEvenNumbers.exe.config
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\bin\Debug\ShowEvenNumbers.exe
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\bin\Debug\ShowEvenNumbers.pdb
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\obj\Debug\ShowEvenNumbers.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\obj\Debug\ShowEvenNumbers.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\obj\Debug\ShowEvenNumbers.exe
+E:\ProgramingClass\ClassCodes\ShowEvenNumbers\obj\Debug\ShowEvenNumbers.pdb
