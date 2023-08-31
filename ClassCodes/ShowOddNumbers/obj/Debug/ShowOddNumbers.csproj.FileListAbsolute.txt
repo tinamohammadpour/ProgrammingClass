@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\bin\Debug\ShowOddNumbers.exe.config
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\bin\Debug\ShowOddNumbers.exe
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\bin\Debug\ShowOddNumbers.pdb
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\obj\Debug\ShowOddNumbers.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\obj\Debug\ShowOddNumbers.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\obj\Debug\ShowOddNumbers.exe
+E:\ProgramingClass\ClassCodes\ShowOddNumbers\obj\Debug\ShowOddNumbers.pdb
