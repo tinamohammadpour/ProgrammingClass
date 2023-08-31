@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\MinMaxAverage\bin\Debug\MinMaxAverage.exe.config
+E:\ProgramingClass\ClassCodes\MinMaxAverage\bin\Debug\MinMaxAverage.exe
+E:\ProgramingClass\ClassCodes\MinMaxAverage\bin\Debug\MinMaxAverage.pdb
+E:\ProgramingClass\ClassCodes\MinMaxAverage\obj\Debug\MinMaxAverage.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\MinMaxAverage\obj\Debug\MinMaxAverage.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\MinMaxAverage\obj\Debug\MinMaxAverage.exe
+E:\ProgramingClass\ClassCodes\MinMaxAverage\obj\Debug\MinMaxAverage.pdb
