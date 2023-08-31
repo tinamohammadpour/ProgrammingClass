@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\bin\Debug\AppendTwoStrings.exe.config
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\bin\Debug\AppendTwoStrings.exe
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\bin\Debug\AppendTwoStrings.pdb
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\obj\Debug\AppendTwoStrings.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\obj\Debug\AppendTwoStrings.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\obj\Debug\AppendTwoStrings.exe
+E:\ProgramingClass\ClassCodes\AppendTwoStrings\obj\Debug\AppendTwoStrings.pdb
