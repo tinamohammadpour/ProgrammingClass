@@ -1,0 +1,7 @@
+E:\ProgramingClass\ClassCodes\IterationOfChar\bin\Debug\IterationOfChar.exe.config
+E:\ProgramingClass\ClassCodes\IterationOfChar\bin\Debug\IterationOfChar.exe
+E:\ProgramingClass\ClassCodes\IterationOfChar\bin\Debug\IterationOfChar.pdb
+E:\ProgramingClass\ClassCodes\IterationOfChar\obj\Debug\IterationOfChar.csproj.AssemblyReference.cache
+E:\ProgramingClass\ClassCodes\IterationOfChar\obj\Debug\IterationOfChar.csproj.CoreCompileInputs.cache
+E:\ProgramingClass\ClassCodes\IterationOfChar\obj\Debug\IterationOfChar.exe
+E:\ProgramingClass\ClassCodes\IterationOfChar\obj\Debug\IterationOfChar.pdb
