@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Student.Interface
 {
-    internal interface Interface1
+    public interface IStudentService
     {
+        void Add(Student.Class.Student student);
+        void DeleteById();
+        void UpdateById();
+        void DeleteAll();
+        void DisplayAll();
     }
 }

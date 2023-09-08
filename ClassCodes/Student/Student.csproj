@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{578F22EB-AF9F-411C-A515-EA8A45CF9DC1}</ProjectGuid>
+    <ProjectGuid>{0BAE3AF4-1237-4FE9-8E1E-EC512147F316}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Student</RootNamespace>
     <AssemblyName>Student</AssemblyName>
@@ -41,6 +41,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class\Class1.cs" />
